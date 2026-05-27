@@ -128,11 +128,11 @@ npm run dev
 ## 📸 Screenshots
 
 <p align="center">
-  <img src="bengaluru-house-price-predictor.png" width="600"/>
+  <img src="Login_Interface.png" width="600"/>
 </p>
 
 <p align="center">
-  <img src="bengaluru-house-price-predictor.png" width="600"/>
+  <img src="Admin_Dashboard_Overview.png" width="600"/>
 </p>
 ---
 
