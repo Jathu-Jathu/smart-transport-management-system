@@ -126,12 +126,13 @@ npm run dev
 ---
 
 ## 📸 Screenshots
-(Add project screenshots here)
 
+<p align="center">
+  <img src="bengaluru-house-price-predictor.png" width="600"/>
+</p>
 
-
+<p align="center">
+  <img src="bengaluru-house-price-predictor.png" width="600"/>
+</p>
 ---
 
-## 👨‍💻 Author
-**Jathurshaa Singarajah**  
-Final Year IT Undergraduate | Full Stack Developer
